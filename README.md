@@ -1,13 +1,14 @@
-#Telecommunication Customer Churn Prediction
+
+#  Telecommunication Customer Churn Prediction
 
 This project investigates **customer churn prediction in the UK telecommunications sector** using **machine learning** and **behavioural science** approaches.
 It was developed as part of the MSc Business Analytics programme.
 
-[Full Report (PDF)](Final%20Report.pdf)
+ [Full Report (PDF)](Final%20Report.pdf)
 
 ---
 
-##Project Overview
+##  Project Overview
 
 * **Business Problem:** Churn rates in UK telecom reach up to **16%** in mobile and **10%** in broadband segments. Retaining customers is more cost-effective than acquiring new ones.
 * **Objective:** Identify key churn drivers and build predictive models to inform targeted retention strategies.
@@ -15,7 +16,7 @@ It was developed as part of the MSc Business Analytics programme.
 
 ---
 
-##Methodology
+##  Methodology
 
 1. **Exploratory Data Analysis (EDA):**
 
@@ -41,7 +42,7 @@ It was developed as part of the MSc Business Analytics programme.
 
 ---
 
-##Key Results
+##  Key Results
 
 * **Best Model:** Logistic Regression with Interaction Terms
 
@@ -60,7 +61,7 @@ It was developed as part of the MSc Business Analytics programme.
 
 ---
 
-## Marketing Insights & Recommendations
+##  Marketing Insights & Recommendations
 
 * **Promote Long-Term Contracts:** Incentivize upgrades from month-to-month to annual plans.
 * **First-Year Retention:** Target onboarding campaigns within first 12 months.
@@ -70,7 +71,7 @@ It was developed as part of the MSc Business Analytics programme.
 
 ---
 
-## Repository Structure
+##  Repository Structure
 
 ```
 telecom-churn-prediction/
@@ -84,7 +85,7 @@ telecom-churn-prediction/
 
 ---
 
-## Skills Demonstrated
+##  Skills Demonstrated
 
 * R programming for machine learning (logistic regression, decision trees).
 * Data preprocessing (outlier capping, encoding, SMOTE).
@@ -93,6 +94,4 @@ telecom-churn-prediction/
 * Reproducible workflow with Git/GitHub.
 
 ---
-
-
 
